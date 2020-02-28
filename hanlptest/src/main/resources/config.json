@@ -1,0 +1,4 @@
+{
+  "CONFIG_CLASSIFICATION_MODEL_GRAPH_PATH": "/Users/user/include/ds/qc_fix_bug_2/frozen_graph.pb",
+  "CONFIG_CLASSIFICATION_MODEL_DATA_DIR": "/Users/user/include/ds/qc_fix_bug_2/"
+}
